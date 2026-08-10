@@ -1,0 +1,15 @@
+{
+	"name": "df-satyaazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49a0d217-19ec-418e-bb73-2e0796ab9446",
+		"tenantId": "1e400c12-c84f-4401-8637-f671056d1a08"
+	}
+}
