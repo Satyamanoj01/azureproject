@@ -13,7 +13,7 @@
 						]
 					},
 					{
-						"activity": "current",
+						"activity": "current_time",
 						"dependencyConditions": [
 							"Succeeded"
 						]
@@ -113,7 +113,7 @@
 				}
 			},
 			{
-				"name": "current",
+				"name": "current_time",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
